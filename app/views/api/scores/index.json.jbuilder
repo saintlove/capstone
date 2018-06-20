@@ -1,0 +1,1 @@
+json.array! @scores, partial: "score", as: :score
